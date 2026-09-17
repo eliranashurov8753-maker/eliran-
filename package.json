@@ -1,0 +1,12 @@
+{
+  "name": "zariz-deploy",
+  "version": "1.0.0",
+  "description": "אפליקציית שליח + / זריז — שרת שיתוף תצורת החנות בין כל המשתמשים",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
